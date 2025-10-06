@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class FinancialEscapeRoomJOptionPane {
+public class FinancialEscapeRoomGUI {
     public static void main(String[] args) {
         int score = 0;
         int timeLeft = 100;
